@@ -25,7 +25,7 @@ Este repositório abarcará os dados de organização e códigos de uma série d
 | 6 | Docker com tudo dentro | TBD | |
 | 7 | Docker em pedacinhos | TBD | |
 | 8 | Docker no CI/CD | TBD | |
-| 8 | Docker no CI/CD - II | TBD | |
+| 9 | Docker no CI/CD - II | TBD | |
 
 ## Proposta
 
@@ -43,8 +43,8 @@ A proposta desta série é mostrar, em apresentações de 20 minutos, o poder do
 
 ## Sugestões
 
-Quer ver outros temas relacionados ao Docker abordados aqui? Abra uma [Issue](docker-series/issues/new) ou fale conosco no [Telegram](https://t.me/devopsvix).
+Quer ver outros temas relacionados ao Docker abordados aqui? Abra uma [Issue](https://github.com/DevOpsVix/serie-docker/issues/new) ou fale conosco no [Telegram](https://t.me/devopsvix).
 
 
-[Giovani]: @giovanibalarini
-[Frederico]: @fboaventura
+[Giovani]: https://github.com/giovanibalarini
+[Frederico]: https://github.com/fboaventura
